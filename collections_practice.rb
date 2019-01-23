@@ -36,3 +36,7 @@ def find_a(letter)
   end
 end
 
+def sum_array(int_array)
+  total
+end
+end
