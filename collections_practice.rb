@@ -30,5 +30,7 @@ def kesha_maker(input)
   end
 end
 
-def find_a()
+def find_a(letter)
+  
+end
 
