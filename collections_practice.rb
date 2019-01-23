@@ -31,7 +31,8 @@ def kesha_maker(input)
 end
 
 def find_a(letter)
-  letter.find do |find|
-    find
+  letter.find_all do |word|
+    word[0] = "a"
+    
 end
 
