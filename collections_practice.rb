@@ -37,6 +37,6 @@ def find_a(letter)
 end
 
 def sum_array(int_array)
-  total
+  int_array.inject { |sum, n| sum +n }
 end
 end
