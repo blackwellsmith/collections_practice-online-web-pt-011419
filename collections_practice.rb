@@ -39,3 +39,7 @@ end
 def sum_array(int_array)
   int_array.inject { |sum, n| sum + n }
 end
+def add_s(array)
+    
+  
+  
